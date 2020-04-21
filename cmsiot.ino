@@ -8,7 +8,7 @@
 #include <HTTPClient.h>
 #include <SocketIoClient.h>
 
-#define cms_iot_key "0edebf5c02b29"
+#define cms_iot_key "xxxxxxxxxxxxx" //key 
 
 /* SPS30 CONNECTION
   RED 5V
